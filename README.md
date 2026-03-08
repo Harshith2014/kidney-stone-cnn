@@ -240,4 +240,3 @@ Code & weights: Internal Research Project
 
 ---
 
-*NephroScan AI · Devaguru · March 2026 · 3 Models · 12,446 Images · EfficientNet-B4*
